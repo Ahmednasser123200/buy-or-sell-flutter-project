@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "813340157825",
+    "project_id": "buysell-1b12a",
+    "storage_bucket": "buysell-1b12a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813340157825:android:1d9e9f6e784d026f7fea80",
+        "android_client_info": {
+          "package_name": "com.example.buy_ssell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813340157825-48kae6738nsc3llj0eabn2cfej6qu079.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buy_ssell",
+            "certificate_hash": "658c94300b1211ce7b3452b9da70426195c3b458"
+          }
+        },
+        {
+          "client_id": "813340157825-lnd5p28kovhidigsift2j35s4r2hsanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdG5lonxAQXs9mwwF9BgyFXRLqsJqmmns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813340157825-lnd5p28kovhidigsift2j35s4r2hsanm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813340157825-dcp1oi3athm0dlk3mtid9fqmnhar0i84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buySsell"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813340157825:android:f240c41f1c8ea7be7fea80",
+        "android_client_info": {
+          "package_name": "com.example.buysell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813340157825-lnd5p28kovhidigsift2j35s4r2hsanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdG5lonxAQXs9mwwF9BgyFXRLqsJqmmns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813340157825-lnd5p28kovhidigsift2j35s4r2hsanm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813340157825-dcp1oi3athm0dlk3mtid9fqmnhar0i84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buySsell"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
